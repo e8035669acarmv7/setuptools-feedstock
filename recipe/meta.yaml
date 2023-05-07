@@ -16,6 +16,7 @@ source:
 build:
   skip: true  # [py<36]
   number: 1
+  disable_pip: true
 
 requirements:
   build:
