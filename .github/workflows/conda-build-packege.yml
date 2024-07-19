@@ -12,8 +12,6 @@ jobs:
           config_file: .ci_support/linux_armv7l_config_py310.yaml
         - name: linux_armv7l_config_py311.yaml
           config_file: .ci_support/linux_armv7l_config_py311.yaml
-        - name: linux_armv7l_config_py312.yaml
-          config_file: .ci_support/linux_armv7l_config_py312.yaml
         - name: linux_armv7l_config_py38.yaml
           config_file: .ci_support/linux_armv7l_config_py38.yaml
         - name: linux_armv7l_config_py39.yaml
